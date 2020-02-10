@@ -1,4 +1,6 @@
 function add (){
   1 + 2
 }
-a + b 
+function add (string, string){}
+  a + b
+}
