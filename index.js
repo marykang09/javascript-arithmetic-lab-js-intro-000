@@ -1,3 +1,3 @@
-function add (1,2){
+function add (12){
   1 + 2
 }
