@@ -3,5 +3,5 @@ function add (){
 }
 
 function add(a,b){
-  1560 + 2
+  a + b
 }
