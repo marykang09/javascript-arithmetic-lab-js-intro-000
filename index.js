@@ -2,6 +2,6 @@ function add (){
   1 + 2
 }
 
-function add(a,b){
+function add(string,string){
   a + b
 }
